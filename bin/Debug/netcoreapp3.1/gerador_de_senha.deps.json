@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gerador_de_senha/1.0.0": {
+        "runtime": {
+          "gerador_de_senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerador_de_senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

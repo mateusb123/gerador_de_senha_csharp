@@ -1,0 +1,13 @@
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.exe
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.deps.json
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.runtimeconfig.json
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.runtimeconfig.dev.json
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.dll
+C:\C#\gerador_de_senha\bin\Debug\netcoreapp3.1\gerador_de_senha.pdb
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.csproj.AssemblyReference.cache
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.AssemblyInfoInputs.cache
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.AssemblyInfo.cs
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.csproj.CoreCompileInputs.cache
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.dll
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.pdb
+C:\C#\gerador_de_senha\obj\Debug\netcoreapp3.1\gerador_de_senha.genruntimeconfig.cache
